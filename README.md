@@ -157,17 +157,13 @@ Note : Before running setup your .env as required
     MONGO_URI = 
     SECRET = 
 
-    CLOUDINARY_CLOUD_NAME = 
-    CLOUDINARY_API_KEY = 
-    CLOUDINARY_API_SECRET = 
-
 
 
 ## Author
 
-- A Bharath
-- https://github.com/Bharath601/ecohub_market.git
+- @saiabhiramjaini
+- https://github.com/saiabhiramjaini/EcoHub-Market
 
 ## Feedback 
 
-If you have any feedback, please reach out me at asb.bharath601@gmail.com
+If you have any feedback, please reach out me at abhiramjaini28@gmail.com
