@@ -162,7 +162,7 @@ Note : Before running setup your .env as required
 ## Author
 
 - @saiabhiramjaini
-- https://github.com/saiabhiramjaini/EcoHub-Market
+- [https://github.com/saiabhiramjaini/EcoHub-Market](https://github.com/saiabhiramjaini/EcoHub-Market)
 
 ## Feedback 
 
